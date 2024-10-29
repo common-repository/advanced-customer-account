@@ -1,0 +1,28 @@
+/*
+*
+* Advanced customer account style
+*
+*
+*/
+h3.fw-bold.advc-miss-title {
+    font-weight: 700;
+    font-size: 40px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+a.advc-miss-btn {
+    padding: 10px 30px;
+    border: 1px solid #ccc;
+    margin-top: 1rem;
+    display: inline-block;
+    text-decoration: none;
+}
+a.advc-miss-btn:hover{
+    opacity: 0.8;
+}
+p.advc-order-list-title {
+    font-weight: 700;
+    border-bottom: 4px solid;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
